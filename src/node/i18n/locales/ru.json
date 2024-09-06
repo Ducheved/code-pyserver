@@ -1,0 +1,13 @@
+{
+  "LOGIN_TITLE": "Вход в {{app}}",
+  "LOGIN_BELOW": "Пожалуйста, войдите ниже.",
+  "WELCOME": "Добро пожаловать в {{app}}",
+  "LOGIN_PASSWORD": "Проверьте файл конфигурации {{configFile}} для получения пароля.",
+  "LOGIN_USING_ENV_PASSWORD": "Пароль был установлен из переменной $PASSWORD.",
+  "LOGIN_USING_HASHED_PASSWORD": "Пароль был установлен из переменной $HASHED_PASSWORD.",
+  "SUBMIT": "ОТПРАВИТЬ",
+  "PASSWORD_PLACEHOLDER": "ПАРОЛЬ",
+  "LOGIN_RATE_LIMIT": "Лимит попыток входа превышен!",
+  "MISS_PASSWORD": "Отсутствует пароль",
+  "INCORRECT_PASSWORD": "Неправильный пароль"
+}
